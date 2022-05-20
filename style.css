@@ -1,0 +1,24 @@
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.flower-img {
+    width: 200px;
+    height: 200px;
+}
+.blue-bg {
+    background-color: blue;
+}
+.all-buttons {
+    background-color: orange;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    padding: 8px 16px;
+    margin-top: 5px;
+}
+.img-improved {
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
